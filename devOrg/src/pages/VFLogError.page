@@ -1,0 +1,7 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Errors</h1>
+  
+  <apex:detail />
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>
