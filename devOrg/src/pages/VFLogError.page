@@ -3,6 +3,7 @@
   <h1>Errors</h1>
   test for RB
   feature 1
+  feature 2
   <apex:detail />
   <!-- End Default Content REMOVE THIS -->
 </apex:page>
